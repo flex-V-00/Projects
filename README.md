@@ -15,4 +15,4 @@ Code used for making this game is written with help of Inheritance and polymorph
    - Create a base class, "CasinoGame," which defines a common interface for casino games. This class should have a pure virtual function "play" to be implemented by derived classes.
    - Create a derived class, "NumberGuessingGame," that implements the specific rules and gameplay for the number guessing game. This class should override the "play" function.
 
-Class Diagram image link is as follows : 
+Class Diagram image link is as follows : https://github.com/flex-V-00/Projects/blob/main/Screenshot%202023-10-22%20at%207.38.37%20PM.png
